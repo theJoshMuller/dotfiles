@@ -1,0 +1,112 @@
+"query:Unread Articles:unread = \"yes\""
+
+
+"---Istanbul University---"
+https://bg.endl.site/u/acikveuzaktan/rss.xml "~AUZEF Instagram"
+https://nitter.net/acikveuzaktan/rss      "~AUZEF Twitter"
+https://www.youtube.com/feeds/videos.xml?user=acikveuzaktan "~AUZEF YouTube"
+" "
+"---Antalya---"
+https://bg.endl.site/u/creativecollectiveantalya/rss.xml
+" "
+"---Blogs----"
+"query:Blogs:unread = \"yes\" and tags # \"blog\" "
+https://podcast.estoncollege.ca/feed/podcast/ blog
+https://seth.blog/feed blog
+https://tim.blog/feed blog
+https://vault.lunduke.com/LundukeShowMP3.xml blog
+https://royalidentity.ca/blog/feed/ blog
+https://artofwayfaring.com/caravan/feed blog
+http://www.alljapaneseallthetime.com/blog/feed/ blog
+https://hismagnificence.com/feed blog
+https://www.dearalyne.com/feed blog
+https://www.krisvallotton.com//feed/rss2 blog
+http://beyondsoundbitespodcast.org/feed/ blog
+https://morethantwelve.podomatic.com/rss2.xml blog
+http://www.everytribe.ca/feed blog
+https://lifesdance.ca/feed blog
+https://www.joshchalmers.com/feed blog
+https://blog.theoldreader.com/rss blog
+" "
+"----Fun(ny)----"
+https://sarahcandersen.com/rss
+https://xkcd.com/rss.xml
+http://www.itchyfeetcomic.com/rss.xml
+https://feeds.feedburner.com/PoorlyDrawnLines
+https://bg.endl.site/u/nathanwpylestrangeplanet/rss.xml
+https://heckifiknowcomics.com/rss
+" "
+"---Instagram----"
+https://bg.endl.site/u/thestephenmuller/rss.xml
+https://bg.endl.site/u/emmausthreads/rss.xml
+https://bg.endl.site/u/geofflawtononline/rss.xml
+https://bg.endl.site/u/josh.theartofwayfaring/rss.xml
+https://bg.endl.site/u/meghanbowmanmusic/rss.xml
+" "
+"---Reddit---"
+https://www.reddit.com/r/whatisthisthing/top/.rss?t=year "~/r/whatisthisthing"
+https://www.reddit.com/r/anki/top/.rss?t=year "~/r/anki"
+https://www.reddit.com/r/selfhosted/top/.rss?t=year "~/r/selfhoster"
+https://www.reddit.com/r/privacy/top/.rss?t=year "~/r/privacy"
+https://www.reddit.com/r/financialindependence/top/.rss?t=year "~/r/FinancialIndependence"
+https://www.reddit.com/r/KingkillerChronicle/top/.rss?t=year "~/r/KingkillerChronicle"
+https://www.reddit.com/r/KingkillerMemes/top/.rss?t=year "~/r/KingKollerMemes"
+https://www.reddit.com/r/Permaculture/top/.rss?t=year "~/r/Permaculture"
+https://www.reddit.com/r/NoFap/top/.rss?t=year "~/r/NF"
+https://www.reddit.com/r/nosurf/top/.rss?t=year "~/r/nosurf"
+https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
+https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
+" "
+"---Stores---"
+https://bg.endl.site/u/storycoffeeroasters/rss.xml
+" "
+"---Videos---"
+https://www.youtube.com/feeds/videos.xml?user=Gloudas
+https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkKmeTinUEU27syZPKrzWQQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w
+https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
+https://www.youtube.com/feeds/videos.xml?user=RyGeor
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC
+https://www.youtube.com/feeds/videos.xml?user=enyay
+https://www.youtube.com/feeds/videos.xml?user=bpkantor
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UC64-PJ-yoF7aJ9pIHWEbrTQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbQKK3Z1QoD6duGXsfLdHuA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg
+" "
+"---TECH----"
+https://nextcloud.com/blog/static-feed/ "~NextCloud Blog"
+https://puri.sm/feed/
+https://blog.riot.im/rss/
+https://matrix.org/blog/feed
+"query:Code:unread = \"yes\" and tags # \"code\""
+https://github.com/DiscipleTools/disciple-tools-theme/releases.atom "~DiscipleTools" !kod code
+https://github.com/tulir/mautrix-whatsapp/releases.atom             "~tulir/mautrix-whatsapp" !kod code
+https://github.com/tulir/gomuks/releases.atom                       "~tulir/gomuks" !kod code
+https://github.com/pimutils/khal/releases.atom                      "~pimutils/khal" !kod code
+https://github.com/lavabit/magma/releases.atom                      "~lavabit/magma" !kod code
+https://github.com/LukeSmithxyz/emailwiz/commits/master.atom        "~LukeSmithxyz/emailwiz/" !kod code
+https://github.com/rclone/rclone/releases.atom                      "~rclone/rclone" !kod code
+https://github.com/spantaleev/matrix-docker-ansible-deploy/releases.atom "~Matrix Ansible" !kod code
+https://github.com/matrix-org/dendrite/releases.atom          "~matrix-org/dendrite" !kod code
+https://github.com/Mailtrain-org/mailtrain/releases.atom            "~Mailtrain-org/mailtrain" !kod code
+https://github.com/ankicommunity/anki-sync-server/releases.atom     "~ankicommunity/anki-sync-server" !kod code
+https://github.com/glutanimate/anki-cli-remote/commits/master.atom  "~glutanimate/anki-cli-remote" !kod code
+https://github.com/morphgnt/sblgnt/commits/master.atom              "~morphgnt/sblgnt" !kod code
+https://github.com/pimutils/vdirsyncer/releases.atom                "~pimutils/vdirsyncer" !kod code
+https://github.com/scheibler/khard/releases.atom                    "~scheibler/khard" !kod code
+https://www.archlinux.org/feeds/news/ "Arch News" !kod code
+" "
+"---Random---"
+https://protomen.com/news/feed/ "~Protomen"
