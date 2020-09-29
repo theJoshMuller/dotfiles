@@ -34,9 +34,9 @@ alias \
 	xi="sudo xbps-install" \
 	xr="sudo xbps-remove -R" \
 	xq="xbps-query" \
-	z="zathura"
-	firefox="firefox --profile ~/.local/share/mozilla"
-	urls="nvim /home/yeshu/.config/newsboat/urls"
+	z="zathura" \
+	firefox="firefox --profile ~/.local/share/mozilla" \
+	urls="nvim /home/yeshu/.config/newsboat/urls" \
 
 alias \
 	magit="nvim -c MagitOnly" \
