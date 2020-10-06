@@ -142,3 +142,6 @@ fi
 
 # Switch escape and caps if tty and no passwd required:
 sudo -n loadkeys ${XDG_DATA_HOME:-$HOME/.local/share}/larbs/ttymaps.kmap 2>/dev/null
+
+#setxkbmap -layout dvorak,tr
+#setxkbmap -option 'grp:alt_shift_toggle'

@@ -43,3 +43,5 @@ alias \
 	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/zshnameddirrc" \
 	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \
 	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf" \
+	school="vim ~/w/gtd/projects/school_guz_2020-2021/main.md" \
+	faq="vim ~/w/gtd/reference/FAQ\ \&\ Standard\ Messages.md" \

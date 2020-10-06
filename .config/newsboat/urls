@@ -2,13 +2,13 @@
 
 
 "---Istanbul University---"
-https://bg.endl.site/u/acikveuzaktan/rss.xml "~AUZEF Instagram"
+https://bibliogram.kavin.rocks/u/acikveuzaktan/rss.xml "~AUZEF Instagram"
 https://nitter.net/acikveuzaktan/rss      "~AUZEF Twitter"
 https://www.youtube.com/feeds/videos.xml?user=acikveuzaktan "~AUZEF YouTube"
 https://nitter.net/istanbuledutr/rss      "~Istanbul University Twitter"
 " "
 "---Antalya---"
-https://bg.endl.site/u/creativecollectiveantalya/rss.xml
+https://bibliogram.kavin.rocks/u/creativecollectiveantalya/rss.xml
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
@@ -34,15 +34,16 @@ https://sarahcandersen.com/rss
 https://xkcd.com/rss.xml
 http://www.itchyfeetcomic.com/rss.xml
 https://feeds.feedburner.com/PoorlyDrawnLines
-https://bg.endl.site/u/nathanwpylestrangeplanet/rss.xml
+https://bibliogram.kavin.rocks/u/nathanwpylestrangeplanet/rss.xml
 https://heckifiknowcomics.com/rss
 " "
 "---Instagram----"
-https://bg.endl.site/u/thestephenmuller/rss.xml
-https://bg.endl.site/u/emmausthreads/rss.xml
-https://bg.endl.site/u/geofflawtononline/rss.xml
-https://bg.endl.site/u/josh.theartofwayfaring/rss.xml
-https://bg.endl.site/u/meghanbowmanmusic/rss.xml
+https://bibliogram.kavin.rocks/u/thestephenmuller/rss.xml
+https://bibliogram.kavin.rocks/u/emmausthreads/rss.xml
+https://bibliogram.kavin.rocks/u/geofflawtononline/rss.xml
+https://bibliogram.kavin.rocks/u/josh.theartofwayfaring/rss.xml
+https://bibliogram.kavin.rocks/u/meghanbowmanmusic/rss.xml
+https://bibliogram.kavin.rocks/u/ataman_wellness_sport_center/rss.xml
 " "
 "---Reddit---"
 https://www.reddit.com/r/whatisthisthing/top/.rss?t=year "~/r/whatisthisthing"
@@ -59,10 +60,11 @@ https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
 https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
 " "
 "---Stores---"
-https://bg.endl.site/u/storycoffeeroasters/rss.xml
+https://bibliogram.kavin.rocks/u/storycoffeeroasters/rss.xml
 " "
 "---Videos---"
 https://www.youtube.com/feeds/videos.xml?user=Gloudas
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
@@ -111,3 +113,6 @@ https://www.archlinux.org/feeds/news/ "Arch News" !kod code
 " "
 "---Random---"
 https://protomen.com/news/feed/ "~Protomen"
+" "
+"---NEWS---"
+http://feeds.bbci.co.uk/news/rss.xml?edition=int "~BBC World"
