@@ -45,3 +45,4 @@ alias \
 	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf" \
 	school="vim ~/w/gtd/projects/school_guz_2020-2021/main.md" \
 	faq="vim ~/w/gtd/reference/FAQ\ \&\ Standard\ Messages.md" \
+	n="vim ~/w/in.md" \
