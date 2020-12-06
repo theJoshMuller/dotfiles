@@ -1,7 +1,7 @@
 "query:Unread Articles:unread = \"yes\""
 
 "---Antalya---"
-https://bg.endl.site/u/creativecollectiveantalya/rss.xml
+https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
@@ -24,22 +24,23 @@ https://morethantwelve.podomatic.com/rss2.xml blog
 http://www.everytribe.ca/feed blog
 https://lifesdance.ca/feed blog
 https://blog.theoldreader.com/rss blog
+https://bibliogram.pussthecat.org/u/bbcnawal/rss.xml
 " "
 "----Fun(ny)----"
 https://sarahcandersen.com/rss
 https://xkcd.com/rss.xml
 http://www.itchyfeetcomic.com/rss.xml
 https://feeds.feedburner.com/PoorlyDrawnLines
-https://bg.endl.site/u/nathanwpylestrangeplanet/rss.xml
+https://bibliogram.pussthecat.org/u/nathanwpylestrangeplanet/rss.xml
 https://heckifiknowcomics.com/rss
 " "
 "---Instagram----"
-https://bg.endl.site/u/thestephenmuller/rss.xml
-https://bg.endl.site/u/emmausthreads/rss.xml
-https://bg.endl.site/u/geofflawtononline/rss.xml
-https://bg.endl.site/u/josh.theartofwayfaring/rss.xml
-https://bg.endl.site/u/meghanbowmanmusic/rss.xml
-https://bg.endl.site/u/ataman_wellness_sport_center/rss.xml
+https://bibliogram.pussthecat.org/u/thestephenmuller/rss.xml
+https://bibliogram.pussthecat.org/u/emmausthreads/rss.xml
+https://bibliogram.pussthecat.org/u/geofflawtononline/rss.xml
+https://bibliogram.pussthecat.org/u/josh.theartofwayfaring/rss.xml
+https://bibliogram.pussthecat.org/u/meghanbowmanmusic/rss.xml
+https://bibliogram.pussthecat.org/u/ataman_wellness_sport_center/rss.xml
 " "
 "---Reddit---"
 
@@ -59,10 +60,11 @@ https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
 https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
 " "
 # "---Stores---"
-# https://bg.endl.site/u/storycoffeeroasters/rss.xml
+# https://bibliogram.pussthecat.org/u/storycoffeeroasters/rss.xml
 " "
 "---Videos---"
 https://www.youtube.com/feeds/videos.xml?user=Gloudas
+https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_8BR59zKgBzeWPxFtmHSwA
 https://www.youtube.com/feeds/videos.xml?user=julienolke
@@ -115,5 +117,4 @@ https://www.archlinux.org/feeds/news/ "Arch News" !kod code
 " "
 "---Random---"
 https://protomen.com/news/feed/ "~Protomen"
-
-https://oncrestca.sharepoint.com/sites/resources/_layouts/15/listfeed.aspx?List=bae7b6a3%2Daea3%2D4ee4%2Da1c8%2D9f6178de97f9&View=2a447de9%2Dc754%2D472a%2D9ab5%2D5f0848e531d5 !hidden
+https://10yearfast.com/category/pray/feed

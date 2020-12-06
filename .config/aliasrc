@@ -3,6 +3,10 @@
 # Use neovim for vim if present.
 [ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
 
+
+mp4comp() {
+	ffmpeg -i "$1" -vcodec libx265 -crf 22 "$1.compressed.mp4"
+}
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
 	cp="cp -iv" \
@@ -36,7 +40,7 @@ alias \
 	xq="xbps-query" \
 	z="zathura" \
 	firefox="firefox --profile ~/.local/share/mozilla" \
-	urls="$EDITOR /home/yeshu/.config/newsboat/urls" \
+	urls="$EDITOR $HOME/.config/newsboat/urls" \
 
 alias \
 	magit="$EDITOR -c MagitOnly" \
@@ -48,3 +52,4 @@ alias \
 	n="$EDITOR ~/w/1in.md" \
 	j="cd ~/w/journal/ && touch $(date '+%Y-%m-%d.md') && git add $(date '+%Y-%m-%d.md') && $EDITOR $(date '+%Y-%m-%d.md')  " \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
+	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'"
