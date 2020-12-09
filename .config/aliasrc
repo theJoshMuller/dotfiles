@@ -5,7 +5,7 @@
 
 
 mp4comp() {
-	ffmpeg -i "$1" -vcodec libx265 -crf 22 "$1.compressed.mp4"
+	ffmpeg -i "$1" -vcodec libx265 -crf 22 -vf scale=1280:720 "$1.compressed.mp4"
 }
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
@@ -13,7 +13,7 @@ alias \
 	mv="mv -iv" \
 	rm="rm -vI" \
 	mkd="mkdir -pv" \
-	yt="youtube-dl --add-metadata -i" \
+	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' -i" \
 	yta="yt -x -f bestaudio/best" \
 	ffmpeg="ffmpeg -hide_banner"
 
@@ -52,4 +52,4 @@ alias \
 	n="$EDITOR ~/w/1in.md" \
 	j="cd ~/w/journal/ && touch $(date '+%Y-%m-%d.md') && git add $(date '+%Y-%m-%d.md') && $EDITOR $(date '+%Y-%m-%d.md')  " \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
-	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'"
+	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \

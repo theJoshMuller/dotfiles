@@ -1,0 +1,3 @@
+#!/bin/sh
+
+sed -i "/^=== Waiting on ====/a- $1" $MASTER_DOC
