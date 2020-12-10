@@ -1,19 +1,16 @@
-
-
 snippet gtdp "Getting Things Done Project"
-# ${1}`!p
+# `!p
 if snip.v.text:
 	snip.rv = snip.v.text
 else:
 	snip.rv = snip.basename`
 
-**Completion Condition:** ${2}
+**Completion Condition:** ${1}
 
 ## Next Actions
 
-${3}
+${2}
 endsnippet
-
 
 snippet i "visual italics"
 _${1:${VISUAL}}_$0
