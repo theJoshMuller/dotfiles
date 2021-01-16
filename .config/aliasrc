@@ -13,8 +13,8 @@ alias \
 	mv="mv -iv" \
 	rm="rm -vI" \
 	mkd="mkdir -pv" \
-	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' -i" \
-	yta="yt -x -f bestaudio/best" \
+	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
+	yta="yt -x --audio-format mp3" \
 	ffmpeg="ffmpeg -hide_banner"
 
 # Colorize commands when possible.
@@ -52,4 +52,4 @@ alias \
 	n="$EDITOR ~/w/1in.md" \
 	j="cd ~/w/journal/ && touch $(date '+%Y-%m-%d.md') && git add $(date '+%Y-%m-%d.md') && $EDITOR $(date '+%Y-%m-%d.md')  " \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
-	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720,ext=webm]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \
+	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \

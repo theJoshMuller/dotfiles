@@ -3,7 +3,9 @@
 if [ -p /dev/stdin ]; then
 	while IFS= read line; do
 		sed -i "/ === Next Actions ===/a- ${line}" $MASTER_DOC
+		notify-send "Added \"${line}\" to Next Actions"
         done
 else
 	sed -i "/ === Next Actions ===/a- ${1}" $MASTER_DOC
+	notify-send "Added \"${1}\" to Next Actions"
 fi

@@ -1,3 +1,4 @@
 #!/bin/sh
 
-sed -i "/^=== Waiting on ====/a- $1" $MASTER_DOC
+sed -i "/^=== Waiting on ====/a- $(date -I) - $1" $MASTER_DOC
+notify-send "Added \"$1\" to Wating List"

@@ -4,6 +4,11 @@
 !! Set a default font and font size as below:
 *.font: monospace:size=10
 
+
+
+ *.background: #282828
+ *.foreground: #fbf1c7
+
 /* name		dark	light */
 /* black	0	8 */
 /* red		1	9 */

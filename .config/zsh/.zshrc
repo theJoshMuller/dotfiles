@@ -79,3 +79,7 @@ bindkey '^e' edit-command-line
 
 # Load syntax highlighting; should be last.
 source /usr/share/zsh/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh 2>/dev/null
+
+if [ -v INBOX_DOC -a -x $HOME/.local/bin/gtd_scripts/count_ins ]; then
+	count_ins
+fi

@@ -1,27 +1,22 @@
 "query:Unread Articles:unread = \"yes\""
-
-"---Antalya---"
-https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
+https://10yearfast.com/category/pray/feed
 https://lefherz.net/category/english/feed
 https://feeds.feedburner.com/TheArtOfManliness blog
 https://www.joshchalmers.com/feed blog
 https://www.mrmoneymustache.com/feed/ blog
 https://podcast.estoncollege.ca/feed/podcast/ blog
 https://nofap.com/feed/ blog "!NF Blog"
-https://seth.blog/feed blog
-https://tim.blog/feed blog
-https://vault.lunduke.com/LundukeShowMP3.xml blog
-https://royalidentity.ca/blog/feed/ blog
+https://feeds.feedblitz.com/sethsblog "~Seth Godin" blog
+https://tim.blog/feed blog "~Tim Ferriss"
+https://vault.lunduke.com/LundukeShowMP3.xml blog "~Lunduke"
 https://artofwayfaring.com/caravan/feed blog
 http://www.alljapaneseallthetime.com/blog/feed/ blog
 https://hismagnificence.com/feed blog
 https://www.dearalyne.com/feed blog
-https://www.krisvallotton.com/feed/rss2 blog
-http://beyondsoundbitespodcast.org/feed/ blog
-https://morethantwelve.podomatic.com/rss2.xml blog
+https://www.krisvallotton.com/feed/rss2 blog "~Kris Vallotton"
 http://www.everytribe.ca/feed blog
 https://lifesdance.ca/feed blog
 https://blog.theoldreader.com/rss blog
@@ -41,10 +36,10 @@ https://bibliogram.pussthecat.org/u/emmausthreads/rss.xml
 https://bibliogram.pussthecat.org/u/geofflawtononline/rss.xml
 https://bibliogram.pussthecat.org/u/josh.theartofwayfaring/rss.xml
 https://bibliogram.pussthecat.org/u/meghanbowmanmusic/rss.xml
-https://bibliogram.pussthecat.org/u/ataman_wellness_sport_center/rss.xml
+https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
+https://apod.nasa.gov/apod.rss "@NASA"
 " "
 "---Reddit---"
-
 https://www.reddit.com/r/StallmanWasRight/top/.rss?t=month "~/r/StallmanWasRight"
 https://www.reddit.com/r/purism/top/.rss?t=month "~/r/Purism"
 https://www.reddit.com/r/whatisthisthing/top/.rss?t=year "~/r/whatisthisthing"
@@ -60,38 +55,37 @@ https://www.reddit.com/r/nosurf/top/.rss?t=year "~/r/nosurf"
 https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
 https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
 " "
-# "---Stores---"
-# https://bibliogram.pussthecat.org/u/storycoffeeroasters/rss.xml
-" "
 "---Videos---"
-https://www.youtube.com/feeds/videos.xml?user=Gloudas
-https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw
-https://www.youtube.com/feeds/videos.xml?channel_id=UC_8BR59zKgBzeWPxFtmHSwA
-https://www.youtube.com/feeds/videos.xml?user=julienolke
-https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
-https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCkKmeTinUEU27syZPKrzWQQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w
-https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
-https://www.youtube.com/feeds/videos.xml?user=RyGeor
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC
-https://www.youtube.com/feeds/videos.xml?user=enyay
-https://www.youtube.com/feeds/videos.xml?user=bpkantor
+https://lbryfeed.melroy.org/channel/tv/lunduke "~Lunduke"
+https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UC64-PJ-yoF7aJ9pIHWEbrTQ "~Purism YouTube"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w "~Todd White"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCT5C7yaO3RVuOgwP8JVAujQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWYXWdSQl75jgbS-unC2NfQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbQKK3Z1QoD6duGXsfLdHuA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
-https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_8BR59zKgBzeWPxFtmHSwA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCbQKK3Z1QoD6duGXsfLdHuA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkKmeTinUEU27syZPKrzWQQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q  "~Kurzgesagt"
+https://www.youtube.com/feeds "~Kurzgesagt"/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC "~Pitch Meetings"
+https://www.youtube.com/feeds/videos.xml?user=Gloudas
+https://www.youtube.com/feeds/videos.xml?user=RyGeor
+https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
+https://www.youtube.com/feeds/videos.xml?user=bpkantor
+https://www.youtube.com/feeds/videos.xml?user=enyay
+https://www.youtube.com/feeds/videos.xml?user=julienolke
 " "
 "---TECH----"
 https://nextcloud.com/blog/static-feed/ "~NextCloud Blog"
@@ -99,6 +93,7 @@ https://puri.sm/feed/ "~Purism Blog"
 https://blog.riot.im/rss/
 https://matrix.org/blog/feed
 "query:Code:unread = \"yes\" and tags # \"code\""
+https://voip.ms/m/feeds.php?feed=news !kod code
 https://github.com/DiscipleTools/disciple-tools-theme/releases.atom "~DiscipleTools" !kod code
 https://github.com/tulir/mautrix-whatsapp/releases.atom             "~tulir/mautrix-whatsapp" !kod code
 https://github.com/tulir/gomuks/releases.atom                       "~tulir/gomuks" !kod code
@@ -114,8 +109,10 @@ https://github.com/glutanimate/anki-cli-remote/commits/master.atom  "~glutanimat
 https://github.com/morphgnt/sblgnt/commits/master.atom              "~morphgnt/sblgnt" !kod code
 https://github.com/pimutils/vdirsyncer/releases.atom                "~pimutils/vdirsyncer" !kod code
 https://github.com/scheibler/khard/releases.atom                    "~scheibler/khard" !kod code
+https://github.com/Shawn-Shan/fawkes/releases.atom                  "~Shawn-Shan/fawkes" !kod code
 https://www.archlinux.org/feeds/news/ "Arch News" !kod code
+https://n-o-d-e.net/rss/rss.xml !kod code
+https://factbased.blogspot.com/feeds/1358980094861266238/comments/default !kod code
+https://forum.manjaro.org/c/announcements/11.rss code !kod
 " "
-"---Random---"
-https://protomen.com/news/feed/ "~Protomen"
-https://10yearfast.com/category/pray/feed
+https://protomen.com/news/feed/ "~Protomen" !misc
