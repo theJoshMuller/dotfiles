@@ -24,6 +24,21 @@ snippet bi "visual bold italics"
 **_${1:${VISUAL}}_**$0
 endsnippet
 
+
+snippet assign "YAML Header for writing assingments in Pandoc"
+---
+title: "${1:title}"
+shorttitle: "${2:shorttitle}"
+author: "${3:Author Redacted}"
+classoption: "stu,noextraspace"
+documentclass: "apa7"
+biblatex: true
+bibliography: "/home/yeshu/w/reference/citations.bib"
+biblio-style: apa
+csl: "/home/yeshu/.local/share/styles/apa.csl"
+---
+endsnippet
+
 snippet wchk "weekly checkup"
 # How is your:
 

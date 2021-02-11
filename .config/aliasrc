@@ -54,3 +54,4 @@ alias \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
 	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \
 	gcd="git commit -a -m \"$(date -I)\"" \
+	cite="$EDITOR ~/w/reference/citations.bib" \

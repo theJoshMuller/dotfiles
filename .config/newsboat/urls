@@ -8,6 +8,7 @@ https://feeds.feedburner.com/TheArtOfManliness blog
 https://www.joshchalmers.com/feed blog
 https://www.mrmoneymustache.com/feed/ blog
 https://podcast.estoncollege.ca/feed/podcast/ blog
+http://www.roughtype.com/?feed=rss2
 https://nofap.com/feed/ blog "!NF Blog"
 https://feeds.feedblitz.com/sethsblog "~Seth Godin" blog
 https://tim.blog/feed blog "~Tim Ferriss"
@@ -20,26 +21,27 @@ https://www.krisvallotton.com/feed/rss2 blog "~Kris Vallotton"
 http://www.everytribe.ca/feed blog
 https://lifesdance.ca/feed blog
 https://blog.theoldreader.com/rss blog
-https://bibliogram.pussthecat.org/u/bbcnawal/rss.xml
+https://bibliogram.ethibox.fr/u/bbcnawal/rss.xml
 " "
 "----Fun(ny)----"
 https://sarahcandersen.com/rss
 https://xkcd.com/rss.xml
 http://www.itchyfeetcomic.com/rss.xml
 https://feeds.feedburner.com/PoorlyDrawnLines
-https://bibliogram.pussthecat.org/u/nathanwpylestrangeplanet/rss.xml
+https://bibliogram.ethibox.fr/u/nathanwpylestrangeplanet/rss.xml
 https://heckifiknowcomics.com/rss
 " "
 "---Instagram----"
-https://bibliogram.pussthecat.org/u/thestephenmuller/rss.xml
-https://bibliogram.pussthecat.org/u/emmausthreads/rss.xml
-https://bibliogram.pussthecat.org/u/geofflawtononline/rss.xml
-https://bibliogram.pussthecat.org/u/josh.theartofwayfaring/rss.xml
-https://bibliogram.pussthecat.org/u/meghanbowmanmusic/rss.xml
-https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
+https://bibliogram.ethibox.fr/u/thestephenmuller/rss.xml
+https://bibliogram.ethibox.fr/u/emmausthreads/rss.xml
+https://bibliogram.ethibox.fr/u/geofflawtononline/rss.xml
+https://bibliogram.ethibox.fr/u/josh.theartofwayfaring/rss.xml
+https://bibliogram.ethibox.fr/u/meghanbowmanmusic/rss.xml
+https://bibliogram.ethibox.fr/u/creativecollectiveantalya/rss.xml
 https://apod.nasa.gov/apod.rss "~NASA"
 " "
 "---Reddit---"
+https://www.reddit.com/r/Nootropics/top/.rss?t=month "~/r/Nootropics"
 https://www.reddit.com/r/StallmanWasRight/top/.rss?t=month "~/r/StallmanWasRight"
 https://www.reddit.com/r/purism/top/.rss?t=month "~/r/Purism"
 https://www.reddit.com/r/whatisthisthing/top/.rss?t=year "~/r/whatisthisthing"
@@ -48,7 +50,7 @@ https://www.reddit.com/r/selfhosted/top/.rss?t=year "~/r/selfhoster"
 https://www.reddit.com/r/privacy/top/.rss?t=year "~/r/privacy"
 https://www.reddit.com/r/financialindependence/top/.rss?t=year "~/r/FinancialIndependence"
 https://www.reddit.com/r/KingkillerChronicle/top/.rss?t=year "~/r/KingkillerChronicle"
-https://www.reddit.com/r/KingkillerMemes/top/.rss?t=year "~/r/KingKollerMemes"
+https://www.reddit.com/r/KingkillerMemes/top/.rss?t=year "~/r/KingKillerMemes"
 https://www.reddit.com/r/Permaculture/top/.rss?t=year "~/r/Permaculture"
 https://www.reddit.com/r/NoFap/top/.rss?t=year "~/r/NF"
 https://www.reddit.com/r/nosurf/top/.rss?t=year "~/r/nosurf"
@@ -86,6 +88,7 @@ https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
 https://www.youtube.com/feeds/videos.xml?user=bpkantor
 https://www.youtube.com/feeds/videos.xml?user=enyay
 https://www.youtube.com/feeds/videos.xml?user=julienolke
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1H1NWNTG2Xi3pt85ykVSHA
 " "
 "---TECH----"
 https://nextcloud.com/blog/static-feed/ "~NextCloud Blog"

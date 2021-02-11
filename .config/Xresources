@@ -9,6 +9,13 @@
  *.background: #282828
  *.foreground: #fbf1c7
 
+
+Sxiv.background: #000000
+Sxiv.foreground: #a0a0a0
+Sxiv.font: Hack-9;
+
+
+
 /* name		dark	light */
 /* black	0	8 */
 /* red		1	9 */

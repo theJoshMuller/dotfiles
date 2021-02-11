@@ -18,6 +18,9 @@ export READER="zathura"
 export MASTER_DOC="$HOME/w/home.md"
 export INBOX_DOC="$HOME/w/1in.md"
 
+# School
+export CITATIONS="$HOME/w/reference/citations.bib"
+
 # ~/ Clean-up:
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
