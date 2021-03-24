@@ -36,6 +36,10 @@ let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
 let g:vimwiki_table_mappings = 0
 
+set tabstop=3
+set shiftwidth=3
+set expandtab
+
 set bg=light
 set go=a
 set mouse=a

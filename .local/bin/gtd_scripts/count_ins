@@ -1,0 +1,2 @@
+#!/bin/sh
+cat $INBOX_DOC | wc -l | sed "s/$/-7\n/" | bc | sed "s/$/ unprocessed/" | figlet | lolcat

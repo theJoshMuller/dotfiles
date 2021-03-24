@@ -9,7 +9,8 @@ https://www.joshchalmers.com/feed blog
 https://www.mrmoneymustache.com/feed/ blog
 https://podcast.estoncollege.ca/feed/podcast/ blog
 http://www.roughtype.com/?feed=rss2
-https://nofap.com/feed/ blog "!NF Blog"
+https://nofap.com/feed/ blog "~NF Blog"
+https://forum.nofap.com/index.php?forums/self-improvement.26/index.rss "~NF Self improvement"
 https://feeds.feedblitz.com/sethsblog "~Seth Godin" blog
 https://tim.blog/feed blog "~Tim Ferriss"
 https://vault.lunduke.com/LundukeShowMP3.xml blog "~Lunduke"
@@ -22,6 +23,8 @@ http://www.everytribe.ca/feed blog
 https://lifesdance.ca/feed blog
 https://blog.theoldreader.com/rss blog
 https://bibliogram.ethibox.fr/u/bbcnawal/rss.xml
+https://milliondollarjourney.com/feed
+https://based.cooking/rss.xml
 " "
 "----Fun(ny)----"
 https://sarahcandersen.com/rss
@@ -62,6 +65,7 @@ https://lbryfeed.melroy.org/channel/tv/lunduke "~Lunduke"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
 https://lbryfeed.melroy.org/channel/tv/purism "~Purism LBRY"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw "~Todd White"
@@ -87,7 +91,6 @@ https://www.youtube.com/feeds/videos.xml?user=RyGeor
 https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
 https://www.youtube.com/feeds/videos.xml?user=bpkantor
 https://www.youtube.com/feeds/videos.xml?user=enyay
-https://www.youtube.com/feeds/videos.xml?user=julienolke
 https://www.youtube.com/feeds/videos.xml?channel_id=UC1H1NWNTG2Xi3pt85ykVSHA
 " "
 "---TECH----"

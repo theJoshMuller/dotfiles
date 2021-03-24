@@ -1,3 +1,4 @@
+🙂 slightly smiling face; 1F642;
 😀 grinning face; 1F600;
 😃 grinning face with big eyes; 1F603;
 😄 grinning face with smiling eyes laugh; 1F604;
@@ -6,7 +7,6 @@
 😅 grinning face with sweat laugh; 1F605;
 😂 face with tears of joy laugh; 1F602;
 🤣 rolling on the floor laughing; 1F923;
-🙂 slightly smiling face; 1F642;
 🙃 upside-down face; 1F643;
 😉 winking face; 1F609;
 😊 blush smiling face with smile eyes; 1F60A;
@@ -43,7 +43,7 @@
 😌 relieved face; 1F60C;
 😔 pensive face; 1F614;
 😪 sleepy face; 1F62A;
-🤤 drooling face; 1F924;
+🤤 drooling face hungry mouth watering; 1F924;
 😴 sleeping face; 1F634;
 😷 face with medical mask sick; 1F637;
 🤒 face with thermometer sick; 1F912;
@@ -54,7 +54,7 @@
 🥵 hot face; 1F975;
 🥶 cold face; 1F976;
 🥴 woozy face; 1F974;
-😵 dizzy face; 1F635;
+😵 dead dizzy face; 1F635;
 🤯 mind blown exploding head; 1F92F;
 🤠 cowboy hat face; 1F920;
 🥳 partying face; 1F973;
@@ -62,7 +62,7 @@
 😎 smiling face with sunglasses; 1F60E;
 🤓 nerd face; 1F913;
 🧐 face with monocle; 1F9D0;
-😕 confused face :/ ; 1F615;
+😕 confused face :/ slant displeased ; 1F615;
 😟 worried face; 1F61F;
 🙁 slightly frowning face; 1F641;
 ☹️ frowning face; 2639 FE0F;
@@ -116,6 +116,15 @@
 🙊 speak-no-evil monkey; 1F64A;
 💋 kiss mark; 1F48B;
 💌 love letter; 1F48C;
+❤️ red heart; 2764 FE0F;
+🧡 orange heart; 1F9E1;
+💛 yellow heart; 1F49B;
+💚 green heart; 1F49A;
+💙 blue heart; 1F499;
+💜 purple heart; 1F49C;
+🤎 brown heart; 1F90E;
+🖤 black heart; 1F5A4;
+🤍 white heart; 1F90D;
 💘 heart with arrow; 1F498;
 💝 heart with ribbon; 1F49D;
 💖 sparkling heart; 1F496;
@@ -126,15 +135,6 @@
 💟 heart decoration; 1F49F;
 ❣️ heart exclamation; 2763 FE0F;
 💔 broken heart; 1F494;
-❤️ red heart; 2764 FE0F;
-🧡 orange heart; 1F9E1;
-💛 yellow heart; 1F49B;
-💚 green heart; 1F49A;
-💙 blue heart; 1F499;
-💜 purple heart; 1F49C;
-🤎 brown heart; 1F90E;
-🖤 black heart; 1F5A4;
-🤍 white heart; 1F90D;
 💯 hundred points; 1F4AF;
 💢 anger symbol; 1F4A2;
 💥 collision; 1F4A5;
@@ -154,7 +154,7 @@
 ✋🏽 raised hand; 270B;
 🖖🏽 vulcan salute; 1F596;
 👌🏽 OK hand; 1F44C;
-🤌 🏽 pinched fingers; 1F90C;
+🤌🏽p pinched fingers hand hos pleasing hoş; 1F90C;
 🤏🏽 pinching hand; 1F90F;
 ✌️ 🏽 victory hand; 270C FE0F;
 🤞🏽 crossed fingers; 1F91E;
@@ -166,7 +166,7 @@
 👆🏽 backhand index pointing up; 1F446;
 🖕🏽 middle finger; 1F595;
 👇🏽 backhand index pointing down; 1F447;
-☝️ 🏽 index pointing up; 261D FE0F;
+☝🏽 index pointing up; 261D FE0F;
 👍🏽 thumbs up (y); 1F44D;
 👎🏽 thumbs down; 1F44E;
 ✊🏽 raised fist; 270A;

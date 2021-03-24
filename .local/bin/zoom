@@ -1,0 +1,2 @@
+#!/bin/sh
+[ -z "$1" ] && $BROWSER --incognito "https://zoom.us/join" || $BROWSER --incognito "https://zoom.us/wc/join/$1"

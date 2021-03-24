@@ -12,8 +12,8 @@ pricefile="$dir/$1"
 chartfile="$dir/$1-chart"
 
 updateprice() { ping -q -c 1 example.org >/dev/null 2>&1 &&
-	curl -s "cad.rate.sx/1$1" > "$pricefile" &&
-	curl -s "cad.rate.sx/$1$interval" > "$chartfile" ;}
+	curl -s "try.rate.sx/1$1" > "$pricefile" &&
+	curl -s "try.rate.sx/$1$interval" > "$chartfile" ;}
 
 [ -d "$dir" ] || mkdir -p "$dir"
 
@@ -22,7 +22,7 @@ updateprice() { ping -q -c 1 example.org >/dev/null 2>&1 &&
 
 case $BLOCK_BUTTON in
 	1) setsid "$TERMINAL" -e less -Sf "$chartfile" ;;
-	2) notify-send -u low "$3 Updating..." "Updating $2 price..."
+	6) notify-send -u low "$3 Updating..." "Updating $2 price..."
 		updateprice "$1" && notify-send "$3 Update complete." "$2 price is now
 \$$(cat "$pricefile")" ;;
 	3) uptime="$(date -d "$(stat -c %x "$pricefile")" '+%D at %T' | sed "s|$(date '+%D')|Today|")"
@@ -32,7 +32,7 @@ case $BLOCK_BUTTON in
 - Shows 🔃 if updating prices.
 - <b>Last updated:
 	$uptime</b>" ;;
-	6) "$TERMINAL" -e "$EDITOR" "$0" ;;
+	2) "$TERMINAL" -e "$EDITOR" "$0" ;;
 esac
 
-printf "$3$%0.2f" "$(cat "$pricefile")"
+printf "$3%0.2f₺" "$(cat "$pricefile")"

@@ -1,0 +1,3 @@
+#!/bin/bash
+
+$BROWSER "https://web.skype.com/"

@@ -24,6 +24,43 @@ snippet bi "visual bold italics"
 **_${1:${VISUAL}}_**$0
 endsnippet
 
+snippet ass "YAML Header for writing assingments in Pandoc (short)"
+---
+biblatex: true
+bibliography: "/home/yeshu/w/reference/citations.bib"
+biblio-style: apa
+csl: "/home/yeshu/.local/share/styles/apa.csl"
+---
+
+${1:${VISUAL}}
+---
+
+**References:**
+
+::: {#refs}
+:::
+endsnippet
+
+snippet assc "YAML Header for writing assingments in Pandoc (commend Visual)"
+---
+biblatex: true
+bibliography: "/home/yeshu/w/reference/citations.bib"
+biblio-style: apa
+csl: "/home/yeshu/.local/share/styles/apa.csl"
+---
+
+<!---
+${1:${VISUAL}}
+--->
+
+---
+
+**References:**
+
+::: {#refs}
+:::
+endsnippet
+
 
 snippet assign "YAML Header for writing assingments in Pandoc"
 ---
@@ -37,6 +74,15 @@ bibliography: "/home/yeshu/w/reference/citations.bib"
 biblio-style: apa
 csl: "/home/yeshu/.local/share/styles/apa.csl"
 ---
+
+${1:${VISUAL}}
+
+---
+
+**References:**
+
+::: {#refs}
+:::
 endsnippet
 
 snippet wchk "weekly checkup"
@@ -104,5 +150,15 @@ ${2}
 ## How can I be smarter tomorrow?
 ${3}
 
+endsnippet
 
+snippet comm "comment"
+<!---
+${1:${VISUAL}}
+--->
+endsnippet
+
+
+snippet c "comment"
+<!--- ${1:${VISUAL}} --->
 endsnippet

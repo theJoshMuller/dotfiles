@@ -1,0 +1,11 @@
+#!/bin/sh
+
+if [ -p /dev/stdin ]; then
+	while read  line; do
+		echo "${line}" >> $CITATIONS
+		notify-send "Added \"${line}\" to $CITATIONS"
+        done
+else
+	echo "${1}" >> $CITATIONS
+	notify-send "Added \"${1}\" to citations"
+fi

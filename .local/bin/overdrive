@@ -1,0 +1,3 @@
+#!/bin/sh
+
+wine /home/yeshu/.local/share/wineprefixes/default/drive_c/Program\ Files\ \(x86\)/OverDrive\ for\ Windows/MediaConsole.exe
