@@ -2,12 +2,14 @@
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
+https://heydonworks.com/feed.xml
 https://10yearfast.com/category/pray/feed
 https://lefherz.net/category/english/feed
 https://feeds.feedburner.com/TheArtOfManliness blog
 https://www.joshchalmers.com/feed blog
 https://www.mrmoneymustache.com/feed/ blog
 https://podcast.estoncollege.ca/feed/podcast/ blog
+https://nextcloud.com/podcast-feed.rss
 http://www.roughtype.com/?feed=rss2
 https://nofap.com/feed/ blog "~NF Blog"
 https://forum.nofap.com/index.php?forums/self-improvement.26/index.rss "~NF Self improvement"
@@ -25,6 +27,8 @@ https://blog.theoldreader.com/rss blog
 https://bibliogram.ethibox.fr/u/bbcnawal/rss.xml
 https://milliondollarjourney.com/feed
 https://based.cooking/rss.xml
+https://www.glossahouse.com/blog-feed.xml
+https://www.koinegreek.com/blog-feed.xml
 " "
 "----Fun(ny)----"
 https://sarahcandersen.com/rss
@@ -61,12 +65,13 @@ https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
 https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
 " "
 "---Videos---"
-https://lbryfeed.melroy.org/channel/tv/lunduke "~Lunduke"
+https://lbryfeed.melroy.org/channel/odysee/lunduke "~Lunduke"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCT-XKlTCxNoZEDmSBlGKf6g
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
-https://lbryfeed.melroy.org/channel/tv/purism "~Purism LBRY"
+https://lbryfeed.melroy.org/channel/odysee/purism "~Purism LBRY"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw "~Todd White"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w
@@ -74,18 +79,20 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCT5C7yaO3RVuOgwP8JVAujQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCWYXWdSQl75jgbS-unC2NfQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
-https://lbryfeed.melroy.org/channel/tv/3blue1brown "~3Blue1Brown"
+https://lbryfeed.melroy.org/channel/odysee/3blue1brown "~3Blue1Brown"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC_8BR59zKgBzeWPxFtmHSwA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCbQKK3Z1QoD6duGXsfLdHuA
-https://lbryfeed.melroy.org/channel/tv/christitustech "~Chris Titus"
+https://lbryfeed.melroy.org/channel/odysee/christitustech "~Chris Titus"
 https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA
-https://lbryfeed.melroy.org/channel/tv/alephwithbeth "~Aleph w/ Beth"
+https://lbryfeed.melroy.org/channel/odysee/alephwithbeth "~Aleph w/ Beth"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q  "~Kurzgesagt"
 https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
 https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC "~Pitch Meetings"
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLkxgki8fW77LASB8OmDAmPlqjKGQIG3Uo "~Holy Post"
+https://www.youtube.com/feeds/videos.xml?playlist_id=PLk4oYPJ7TXKg4lvvabXEn9BI4c9i696kx "~Wildman Kettlebells"
 https://www.youtube.com/feeds/videos.xml?user=Gloudas
 https://www.youtube.com/feeds/videos.xml?user=RyGeor
 https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
