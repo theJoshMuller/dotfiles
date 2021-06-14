@@ -7,6 +7,12 @@
 mp4comp() {
 	ffmpeg -i "$1" -vcodec libx265 -crf 22 -vf scale=1280:720 "$1.compressed.mp4"
 }
+
+
+awbry() {
+   youtube-dl --get-filename -o "\"%(title)s.%(ext)s\"" "https://lbry.tv/$1" | xclip -sel c
+}
+
 # Verbosity and settings that you pretty much just always are going to want.
 alias \
 	cp="cp -iv" \
@@ -14,6 +20,7 @@ alias \
 	rm="rm -vI" \
 	mkd="mkdir -pv" \
 	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
+	yt360="youtube-dl --add-metadata -f 'bestvideo[height<=?360]+bestaudio/best[height<=?360]' -i" \
 	yta="yt -x --audio-format mp3" \
 	ffmpeg="ffmpeg -hide_banner"
 
@@ -28,6 +35,7 @@ alias \
 alias \
 	ka="killall" \
 	g="git" \
+	k="khard" \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="sudo shutdown -h now" \
@@ -49,7 +57,7 @@ alias \
 	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf" \
 	school="$EDITOR ~/w/gtd/projects/school_guz_2020-2021/main.md" \
 	faq="$EDITOR ~/w/gtd/reference/FAQ\ \&\ Standard\ Messages.md" \
-	n="$EDITOR ~/w/1in.md" \
+	n="$EDITOR $INBOX_DOC" \
 	j="cd ~/w/journal/ && touch $(date '+%Y-%m-%d.md') && git add $(date '+%Y-%m-%d.md') && $EDITOR $(date '+%Y-%m-%d.md')  " \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
 	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \

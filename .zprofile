@@ -15,8 +15,10 @@ export BROWSER="brave"
 export READER="zathura"
 
 # Make GTD/VimWiki stuff more portable:
-export MASTER_DOC="$HOME/w/home.md"
-export INBOX_DOC="$HOME/w/1in.md"
+export DOCS="$HOME/w"
+export MASTER_DOC="$DOCS/home.md"
+export TICKLE="$DOCS/tickle.md"
+export INBOX_DOC="$DOCS/in.md"
 
 # School
 export CITATIONS="$HOME/w/reference/citations.bib"

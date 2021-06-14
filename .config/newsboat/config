@@ -1,4 +1,10 @@
 #show-read-feeds no
+
+#urls-source "ocnews"
+#ocnews-url "https://cloud.umut.ca" # Domain of your Nextcloud
+#ocnews-login "yeshu" # Desired nextcloud user to log in as
+#ocnews-password "keP5Wm5c7fq7ZKdm52NXdMZTmdq8iiQtBEV4rVJaTSaX4fVM3ZcMQ5Rxb9kwQ4ALvbUb6EzbizT" # Nextcloud password (app password if using 2Fa)
+
 auto-reload yes
 
 external-url-viewer "urlscan -dc -r 'linkhandler {}'"
@@ -40,7 +46,7 @@ macro n set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
 macro m set browser "tsp mpv" ; open-in-browser ; set browser linkhandler
 macro w set browser "lynx" ; open-in-browser ; set browser linkhandler
 macro p set browser "dmenuhandler" ; open-in-browser ; set browser linkhandler
-macro c set browser "xsel -b <<<" ; open-in-browser ; set browser linkhandler
+macro c set browser "echo %u | xclip -r -sel c" ; open-in-browser ; set browser linkhandler
 macro C set browser "youtube-viewer --comments=%u" ; open-in-browser ; set browser linkhandler
 
 highlight all "---.*---" yellow

@@ -21,6 +21,7 @@ Plug 'kovetskiy/sxhkd-vim'
 Plug 'ap/vim-css-color'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
+Plug 'AndrewRadev/id3.vim'
 call plug#end()
 
 " Track the engine.
@@ -35,6 +36,8 @@ let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'
 
 let g:vimwiki_table_mappings = 0
+let g:vimwiki_list = [{'path': '~/w/',
+         \ 'links_space_char': '-'}]
 
 set tabstop=3
 set shiftwidth=3

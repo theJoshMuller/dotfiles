@@ -2,37 +2,17 @@
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
-https://heydonworks.com/feed.xml
+https://artofwayfaring.com/travel-blog/feed/
 https://10yearfast.com/category/pray/feed
-https://lefherz.net/category/english/feed
 https://feeds.feedburner.com/TheArtOfManliness blog
-https://www.joshchalmers.com/feed blog
 https://www.mrmoneymustache.com/feed/ blog
 https://podcast.estoncollege.ca/feed/podcast/ blog
 https://nextcloud.com/podcast-feed.rss
-http://www.roughtype.com/?feed=rss2
-https://nofap.com/feed/ blog "~NF Blog"
-https://forum.nofap.com/index.php?forums/self-improvement.26/index.rss "~NF Self improvement"
-https://feeds.feedblitz.com/sethsblog "~Seth Godin" blog
-https://tim.blog/feed blog "~Tim Ferriss"
-https://vault.lunduke.com/LundukeShowMP3.xml blog "~Lunduke"
-https://artofwayfaring.com/caravan/feed blog
-http://www.alljapaneseallthetime.com/blog/feed/ blog
 https://hismagnificence.com/feed blog
-https://www.dearalyne.com/feed blog
-https://www.krisvallotton.com/feed/rss2 blog "~Kris Vallotton"
-http://www.everytribe.ca/feed blog
 https://lifesdance.ca/feed blog
-https://blog.theoldreader.com/rss blog
 https://bibliogram.ethibox.fr/u/bbcnawal/rss.xml
-https://milliondollarjourney.com/feed
-https://based.cooking/rss.xml
-https://www.glossahouse.com/blog-feed.xml
-https://www.koinegreek.com/blog-feed.xml
 " "
 "----Fun(ny)----"
-https://sarahcandersen.com/rss
-https://xkcd.com/rss.xml
 http://www.itchyfeetcomic.com/rss.xml
 https://feeds.feedburner.com/PoorlyDrawnLines
 https://bibliogram.ethibox.fr/u/nathanwpylestrangeplanet/rss.xml
@@ -67,7 +47,9 @@ https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBet
 "---Videos---"
 https://lbryfeed.melroy.org/channel/odysee/lunduke "~Lunduke"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe0ilqwSO8XVnCw4m3UYC1Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCT-XKlTCxNoZEDmSBlGKf6g
+https://www.youtube.com/feeds/videos.xml?channel_id=UCywGsTdh_qqZUYmA2Gro2CA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
 https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
@@ -99,15 +81,13 @@ https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
 https://www.youtube.com/feeds/videos.xml?user=bpkantor
 https://www.youtube.com/feeds/videos.xml?user=enyay
 https://www.youtube.com/feeds/videos.xml?channel_id=UC1H1NWNTG2Xi3pt85ykVSHA
+https://nutritionfacts.org/feed/?post_type=video
 " "
 "---TECH----"
-https://nextcloud.com/blog/static-feed/ "~NextCloud Blog"
 https://puri.sm/feed/ "~Purism Blog"
-https://blog.riot.im/rss/
-https://matrix.org/blog/feed
 "query:Code:unread = \"yes\" and tags # \"code\""
-https://voip.ms/m/feeds.php?feed=news !kod code
 https://github.com/DiscipleTools/disciple-tools-theme/releases.atom "~DiscipleTools" !kod code
+https://github.com/ventoy/Ventoy/releases.atom "~Ventoy" !kod code
 https://github.com/tulir/mautrix-whatsapp/releases.atom             "~tulir/mautrix-whatsapp" !kod code
 https://github.com/tulir/gomuks/releases.atom                       "~tulir/gomuks" !kod code
 https://github.com/pimutils/khal/releases.atom                      "~pimutils/khal" !kod code
@@ -124,7 +104,6 @@ https://github.com/pimutils/vdirsyncer/releases.atom                "~pimutils/v
 https://github.com/scheibler/khard/releases.atom                    "~scheibler/khard" !kod code
 https://github.com/Shawn-Shan/fawkes/releases.atom                  "~Shawn-Shan/fawkes" !kod code
 https://www.archlinux.org/feeds/news/ "Arch News" !kod code
-https://n-o-d-e.net/rss/rss.xml !kod code
 https://factbased.blogspot.com/feeds/1358980094861266238/comments/default !kod code
 https://forum.manjaro.org/c/announcements/11.rss code !kod
 " "
