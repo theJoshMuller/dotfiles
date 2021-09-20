@@ -18,6 +18,7 @@ alias \
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -vI" \
+   mpv360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \
 	mkd="mkdir -pv" \
 	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
 	yt360="youtube-dl --add-metadata -f 'bestvideo[height<=?360]+bestaudio/best[height<=?360]' -i" \
@@ -36,6 +37,7 @@ alias \
 	ka="killall" \
 	g="git" \
 	k="khard" \
+	b="khard -c $HOME/.config/khard/bcc.conf " \
 	trem="transmission-remote" \
 	YT="youtube-viewer" \
 	sdn="sudo shutdown -h now" \
@@ -62,6 +64,6 @@ alias \
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
 	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \
 	gcd="git commit -a -m \"$(date -I)\"" \
-	cite="$EDITOR ~/w/reference/citations.bib" \
+	cite="$EDITOR $DOCS/reference/citations.bib" \
 	cleanwa="rm paper.aux paper.b* paper.log paper.out paper.pdf paper.run.xml paper.txt" \
 	wa="pdflatex paper.tex && biber paper && pdflatex paper.tex && pdftotext paper.pdf && zathura paper.pdf" \

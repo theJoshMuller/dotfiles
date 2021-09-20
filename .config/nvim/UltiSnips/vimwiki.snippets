@@ -20,9 +20,14 @@ snippet b "visual bold"
 **${1:${VISUAL}}**$0
 endsnippet
 
+snippet q "quotes"
+"${1:${VISUAL}}" $0
+endsnippet
+
 snippet bi "visual bold italics"
 ***${1:${VISUAL}}***$0
 endsnippet
+
 
 snippet ass "YAML Header for writing assingments in Pandoc (short)"
 ---
@@ -152,12 +157,15 @@ ${3}
 
 endsnippet
 
+snippet ct "standart pandoc citation"
+[@${1:${VISUAL}}]$0
+endsnippet
+
 snippet comm "comment"
 <!---
 ${1:${VISUAL}}
 --->
 endsnippet
-
 
 snippet c "comment"
 <!--- ${1:${VISUAL}} --->
