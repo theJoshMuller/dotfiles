@@ -18,12 +18,6 @@ alias \
 	cp="cp -iv" \
 	mv="mv -iv" \
 	rm="rm -vI" \
-   mpv360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \
-	mkd="mkdir -pv" \
-	yt="youtube-dl --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
-	yt360="youtube-dl --add-metadata -f 'bestvideo[height<=?360]+bestaudio/best[height<=?360]' -i" \
-	yta="yt -x --audio-format mp3" \
-	ffmpeg="ffmpeg -hide_banner"
 
 # Colorize commands when possible.
 alias \
@@ -34,6 +28,15 @@ alias \
 
 # These common commands are just too long! Abbreviate them.
 alias \
+   nf="vim j.bb && rm j.bb" \
+   mpv360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \
+   m360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \
+	mkd="mkdir -pv" \
+	yt="yt-dlp --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
+	yts="tsp yt-dlp --add-metadata -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' -i" \
+	yt360="yt-dlp --add-metadata -f 'bestvideo[height<=?360]+bestaudio/best[height<=?360]' -i" \
+	yta="yt -x --audio-format mp3" \
+	ffmpeg="ffmpeg -hide_banner" \
 	ka="killall" \
 	g="git" \
 	k="khard" \
@@ -51,6 +54,7 @@ alias \
 	z="zathura" \
 	firefox="firefox --profile ~/.local/share/mozilla" \
 	urls="$EDITOR $HOME/.config/newsboat/urls" \
+	wn="mpv $HOME/.local/share/WhiteNoise.mp3 --loop=inf" \
 
 alias \
 	magit="$EDITOR -c MagitOnly" \

@@ -2,25 +2,21 @@
 " "
 "---Blogs----"
 "query:Blogs:unread = \"yes\" and tags # \"blog\" "
+https://kill-the-newsletter.com/feeds/8fx29fk26vg3v2t6.xml
 https://artofwayfaring.com/travel-blog/feed/
 https://10yearfast.com/category/pray/feed
-https://feeds.feedburner.com/TheArtOfManliness blog
-https://podcast.estoncollege.ca/feed/podcast/ blog
-https://nextcloud.com/podcast-feed.rss
 https://hismagnificence.com/feed blog
-https://lifesdance.ca/feed blog
 https://bibliogram.pussthecat.org/u/bbcnawal/rss.xml
-" "
-"----Fun(ny)----"
 http://www.itchyfeetcomic.com/rss.xml
-https://feeds.feedburner.com/PoorlyDrawnLines
-https://bibliogram.pussthecat.org/u/nathanwpylestrangeplanet/rss.xml
 https://heckifiknowcomics.tumblr.com/rss
 " "
-"---Instagram----"
+"---Insta----"
+https://bibliogram.pussthecat.org/u/soapstones.co/rss.xml
+https://bibliogram.pussthecat.org/u/nathanwpylestrangeplanet/rss.xml
 https://bibliogram.pussthecat.org/u/thestephenmuller/rss.xml
 https://bibliogram.pussthecat.org/u/emmausthreads/rss.xml
 https://bibliogram.pussthecat.org/u/geofflawtononline/rss.xml
+https://bibliogram.pussthecat.org/u/greeningthedesertprojectii/rss.xml
 https://bibliogram.pussthecat.org/u/josh.theartofwayfaring/rss.xml
 https://bibliogram.pussthecat.org/u/kutsalkitap.org_/rss.xml
 https://bibliogram.pussthecat.org/u/meghanbowmanmusic/rss.xml
@@ -28,32 +24,40 @@ https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
 https://apod.nasa.gov/apod.rss "~NASA"
 " "
 "---Reddit---"
+https://www.reddit.com/r/functionalprint/top/.rss?t=year "~/r/FunctionalPrint"
+https://www.reddit.com/r/ender3/top/.rss?t=year "~/r/Ender3"
+https://www.reddit.com/r/proplifting/top/.rss?t=year "~/r/Proplifting"
+https://www.reddit.com/r/longevity/top/.rss?t=month "~/r/Longevity"
 https://www.reddit.com/r/Anytype/top/.rss?t=month "~/r/Anytype"
 https://www.reddit.com/r/pmolol/top/.rss?t=month "~/r/pmolol"
 https://www.reddit.com/r/lowimpactlifestyle/top/.rss?t=month "~/r/lowimpactlifestyle"
-https://www.reddit.com/r/BuyItForLife/top/.rss?t=month "~/r/BuyItForLife"
-https://www.reddit.com/r/frugal/top/.rss?t=month "~/r/frugal"
-https://www.reddit.com/r/seduction/top/.rss?t=month "~/r/seduction"
 https://www.reddit.com/r/Nootropics/top/.rss?t=month "~/r/Nootropics"
 https://www.reddit.com/r/blackhat/top/.rss?t=month "~/r/blackhat"
 https://www.reddit.com/r/StallmanWasRight/top/.rss?t=month "~/r/StallmanWasRight"
 https://www.reddit.com/r/purism/top/.rss?t=month "~/r/Purism"
-https://www.reddit.com/r/whatisthisthing/top/.rss?t=year "~/r/whatisthisthing"
 https://www.reddit.com/r/anki/top/.rss?t=year "~/r/anki"
 https://www.reddit.com/r/selfhosted/top/.rss?t=year "~/r/selfhoster"
 https://www.reddit.com/r/privacy/top/.rss?t=year "~/r/privacy"
-https://www.reddit.com/r/financialindependence/top/.rss?t=month "~/r/FinancialIndependence"
+https://www.reddit.com/r/financialindependence/top/.rss?t=year "~/r/FinancialIndependence"
 https://www.reddit.com/r/KingkillerChronicle/top/.rss?t=year "~/r/KingkillerChronicle"
 https://www.reddit.com/r/KingkillerMemes/top/.rss?t=year "~/r/KingKillerMemes"
 https://www.reddit.com/r/Permaculture/top/.rss?t=year "~/r/Permaculture"
 https://www.reddit.com/r/NoFap/top/.rss?t=year "~/r/NF"
 https://www.reddit.com/r/nosurf/top/.rss?t=year "~/r/nosurf"
-https://www.reddit.com/r/NextCloud/top/.rss?t=year "~/r/NextCloud"
 https://www.reddit.com/r/DecidingToBeBetter/top/.rss?t=year "~/r/DecidingToBeBetter"
 " "
 "---Videos---"
 https://lbryfeed.melroy.org/channel/odysee/lunduke "~Lunduke"
+https://lbryfeed.melroy.org/channel/odysee/TheLinuxGamer "~ Gardiner Bryant"
 https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZPqj7h7mzjwuSfw_UWxQPw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYNbYGl89UUowy8oXkipC-Q
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJqNqmXwm_Rr-cORhNBq6Xw
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJKl77olDWKJTCpAMMFCRsA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNwHKYtnJNa8xNW4sbzNwMw
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTUm1R6b4jO61uVRMEdwx4A
+https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ
 https://www.youtube.com/feeds/videos.xml?channel_id=UCHC4G4X-OR5WkY-IquRGa3Q
@@ -64,6 +68,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC31U-ll2Q1niJ2QIhKlfpZA
 https://www.youtube.com/feeds/videos.xml?channel_id=UCe0ilqwSO8XVnCw4m3UYC1Q
 https://www.youtube.com/feeds/videos.xml?channel_id=UCEn3fRj2e0mpqYsijxnzayg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCXmz1jEf3MUyKiv8W5GRsXQ
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w
 https://www.youtube.com/feeds/videos.xml?channel_id=UCT-XKlTCxNoZEDmSBlGKf6g
 https://www.youtube.com/feeds/videos.xml?channel_id=UCywGsTdh_qqZUYmA2Gro2CA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
@@ -90,20 +95,23 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC "~Pitch Meetings"
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLkxgki8fW77LASB8OmDAmPlqjKGQIG3Uo "~Holy Post"
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLk4oYPJ7TXKg4lvvabXEn9BI4c9i696kx "~Wildman Kettlebells"
-https://www.youtube.com/feeds/videos.xml?user=DavidBombal
 https://www.youtube.com/feeds/videos.xml?user=charismaoncommand
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6A_0Jm21SIvpdKyg9Gmxw
 https://www.youtube.com/feeds/videos.xml?user=Gloudas
 https://www.youtube.com/feeds/videos.xml?user=RyGeor
 https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
 https://www.youtube.com/feeds/videos.xml?user=bpkantor
 https://www.youtube.com/feeds/videos.xml?user=enyay
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA
 https://www.youtube.com/feeds/videos.xml?channel_id=UC1H1NWNTG2Xi3pt85ykVSHA
 https://nutritionfacts.org/feed/?post_type=video
 " "
 "---TECH----"
 https://puri.sm/feed/ "~Purism Blog"
 "query:Code:unread = \"yes\" and tags # \"code\""
+https://github.com/DiscipleTools/disciple-tools-prayer-campaigns/releases.atom "~DiscipleTools Prayer Campaign" !kod code
 https://github.com/DiscipleTools/disciple-tools-theme/releases.atom "~DiscipleTools" !kod code
+https://github.com/DiscipleTools/disciple-tools-dashboard/releases.atom "~DiscipleTools - Dashboard plugin" !kod code
 https://github.com/calendso/calendso/releases.atom "~Calendso" !kod code
 https://github.com/ventoy/Ventoy/releases.atom "~Ventoy" !kod code
 https://github.com/tulir/mautrix-whatsapp/releases.atom             "~tulir/mautrix-whatsapp" !kod code

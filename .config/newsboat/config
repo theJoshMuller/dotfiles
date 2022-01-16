@@ -43,7 +43,7 @@ macro b set browser "brave" ; open-in-browser ; set browser linkhandler
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best" ; open-in-browser ; set browser linkhandler
 macro v set browser "tsp youtube-dl -c -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' " ; open-in-browser ; set browser linkhandler
 macro n set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
-macro m set browser "tsp mpv" ; open-in-browser ; set browser linkhandler
+macro m set browser "tsp mpv" ; open-in-browser ; set browser linkhandler; toggle-article-read "read"
 macro w set browser "lynx" ; open-in-browser ; set browser linkhandler
 macro p set browser "dmenuhandler" ; open-in-browser ; set browser linkhandler
 macro c set browser "echo %u | xclip -r -sel c" ; open-in-browser ; set browser linkhandler
