@@ -1,0 +1,81 @@
+baseURL = "https://example.com"
+title = "Fountain of Life Church"
+copyright = "Copyright © 2022, Fountain of Life Church"
+paginate = 2
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+googleAnalytics = "UA-XXXX"
+DisqusShortname = ""
+theme = "hugo-theme-chunky-poster"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "donate"
+    name = "Donate"
+    url = "/donate/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    identifier = "join-us"
+    name = "Join Us!"
+    url = "/join-us/"
+    weight = 6
+  [[menu.main]]
+    identifier = ""
+    name = "Contact"
+    url = "/contact/"
+    weight = 9
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+author = "authors"
+
+[params]
+  author = "Fountain of Life Church"
+  description = "Come Worship in the River!"
+  homepageImage = "/images/homepage-image.jpg"
+  dateFormat = "January 2, 2006"
+  share = true
+  showLanguageSwitcher = false
+
+  # Custom CSS and JS. Relative to /static/css and /static/js respectively.
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    rss = false
+    email = "folcadmin@sasktel.net"
+    #phone-square = "tel:+13069498903"
+    facebook = "https://facebook.com"
+
+  [params.prismJS]
+    enable = true
+    theme = ""
+
+  [params.commento]
+    enable = true
+    url = "https://commento.io"
+
+[markup]
+  [markup.highlight]
+    codeFences = false
+
+[services]
+# [services.instagram]
+#   disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true

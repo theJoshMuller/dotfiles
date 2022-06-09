@@ -24,10 +24,18 @@ snippet cite "cite"
 \textcite{${1:${VISUAL}}} $0
 endsnippet
 
+snippet ycite "cite year"
+\parencite*{${1:${VISUAL}}} $0
+endsnippet
+
 snippet pcite "parencite"
 \parencite{${1:${VISUAL}}} $0
 endsnippet
 
+snippet nycite "name-year cite"
+\textcite{${1:${VISUAL}}} $0
+endsnippet
+
 snippet acite "autocite"
-\autocite{${1:${VISUAL}}} $0
+\citeauthor{${1:${VISUAL}}} $0
 endsnippet

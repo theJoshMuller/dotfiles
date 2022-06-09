@@ -85,5 +85,6 @@ if [ -v INBOX_DOC -a -x $HOME/.local/bin/gtd_scripts/count_ins ]; then
 fi
 echo "BIRTHDAYS for $(date +%B\ %-d)" | lolcat
 grep "($(date +%-m/%-d))" ~/w/reference/birthdays.md
-echo "Prayer Contact for TODAY" | lolcat
-grep "^$(date +%-d)\." ~/w/OIKOS.md
+khard birthdays | grep "$(date +%-m-%-d) "
+#echo "Prayer Contact for TODAY" | lolcat
+#grep "^$(date +%-d)\." ~/w/OIKOS.md

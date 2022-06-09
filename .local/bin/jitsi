@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo "https://talk.ungleich.ch/$1" | xclip -sel c  && brave "https://talk.ungleich.ch/$1"
+echo "https://meet.jit.si/$1" | xclip -sel c  && brave "https://meet.jit.si/$1"

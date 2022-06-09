@@ -3,11 +3,29 @@
 # Use neovim for vim if present.
 [ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
 
+cleanContacts() {
+   cd "${XDG_DATA_HOME:-$HOME/.local/share}/contacts/contacts"
+   sed -i 's/;VALUE=uri:tel//g' *
+}
+
+blog() {
+cd ~/projects/joshmuller.ca
+hugo new -k blog content/writings/2022/$1.md
+vim content/writings/2022/$1.md
+}
 
 mp4comp() {
 	ffmpeg -i "$1" -vcodec libx265 -crf 22 -vf scale=1280:720 "$1.compressed.mp4"
 }
 
+normmp4() {
+   ffmpeg-normalize "$1" -o "normalized_$1" -c:a aac -b:a 192k
+}
+
+screen-record-compress() {
+   ffmpeg -i "$1" -fs 90M $2
+   normmp4 $2
+}
 
 awbry() {
    youtube-dl --get-filename -o "\"%(title)s.%(ext)s\"" "https://lbry.tv/$1" | xclip -sel c
@@ -28,6 +46,11 @@ alias \
 
 # These common commands are just too long! Abbreviate them.
 alias \
+   whereismyphone="brave 'https://www.google.com/search?q=where+is+my+phone&btnK=Google+Search'" \
+   waha="brave https://bible.com/bible/170/JHN.9 & audacity & " \
+   mine="sudo xmrig -o us-west.minexmr.com:443 -u 86YtaybNw9RiW6jURyaaDFNBKhmiESYjk6XqZX8hrysoUNb3kujStQBeJM2CaYjGsNFHnvFHEhx2TQHgExYmj8p9G1cNH5w -k --tls  --randomx-1gb-pages -t 1" \
+   mine-full="sudo xmrig -o us-west.minexmr.com:443 -u 86YtaybNw9RiW6jURyaaDFNBKhmiESYjk6XqZX8hrysoUNb3kujStQBeJM2CaYjGsNFHnvFHEhx2TQHgExYmj8p9G1cNH5w -k --tls  --randomx-1gb-pages -t 4" \
+   mine-half="sudo xmrig -o us-west.minexmr.com:443 -u 86YtaybNw9RiW6jURyaaDFNBKhmiESYjk6XqZX8hrysoUNb3kujStQBeJM2CaYjGsNFHnvFHEhx2TQHgExYmj8p9G1cNH5w -k --tls  --randomx-1gb-pages -t 2" \
    nf="vim j.bb && rm j.bb" \
    mpv360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \
    m360="mpv --ytdl-format=\"bestvideo[height<=?360]+bestaudio/best\" " \

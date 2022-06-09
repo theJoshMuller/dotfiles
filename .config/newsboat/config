@@ -39,7 +39,7 @@ color article white default bold
 browser linkhandler
 macro , open-in-browser
 macro t set browser "qndl" ; open-in-browser ; set browser linkhandler
-macro b set browser "brave" ; open-in-browser ; set browser linkhandler
+macro b set browser "$BROWSER" ; open-in-browser ; set browser linkhandler
 macro a set browser "tsp youtube-dl --add-metadata -xic -f bestaudio/best" ; open-in-browser ; set browser linkhandler
 macro v set browser "tsp youtube-dl -c -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' " ; open-in-browser ; set browser linkhandler
 macro n set browser "setsid -f mpv" ; open-in-browser ; set browser linkhandler
