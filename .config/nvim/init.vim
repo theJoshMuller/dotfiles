@@ -9,6 +9,7 @@ endif
 
 call plug#begin(system('echo -n "${XDG_CONFIG_HOME:-$HOME/.config}/nvim/plugged"'))
 Plug 'tpope/vim-surround'
+Plug 'jamessan/vim-gnupg'
 Plug 'preservim/nerdtree'
 Plug 'junegunn/goyo.vim'
 Plug 'PotatoesMaster/i3-vim-syntax'
@@ -154,3 +155,19 @@ autocmd BufWritePost ~/.local/src/dwmblocks/config.h !cd ~/.local/src/dwmblocks/
 autocmd BufWritePost ~/.local/src/dmenu/config.h !cd ~/.local/src/dmenu/; sudo make install
 autocmd BufWritePost ~/.local/src/dwm/config.h !cd ~/.local/src/dwm/; sudo make install
 autocmd BufWritePost ~/.local/src/st/config.h !cd ~/.local/src/st/; sudo make install
+
+
+let g:GPGPreferArmor=1
+let g:GPGDefaultRecipients=["josh@joshmuller.ca"]
+
+"set backupskip+=*.asc
+"set viminfo=
+"
+"augroup GPG
+"  autocmd!
+"  autocmd BufReadPost  *.asc :%!gpg -q -d
+"  autocmd BufReadPost  *.asc |redraw!
+"  autocmd BufWritePre  *.asc :%!gpg -q -e -a
+"  autocmd BufWritePost *.asc u
+"  autocmd VimLeave     *.asc :!clear
+"augroup END

@@ -87,7 +87,8 @@ alias \
 	school="$EDITOR ~/w/gtd/projects/school_guz_2020-2021/main.md" \
 	faq="$EDITOR ~/w/gtd/reference/FAQ\ \&\ Standard\ Messages.md" \
 	n="$EDITOR $INBOX_DOC" \
-	j="cd ~/w/journal/ && touch $(date '+%Y-%m-%d.md') && git add $(date '+%Y-%m-%d.md') && $EDITOR $(date '+%Y-%m-%d.md')  " \
+	j="$EDITOR '~/w/journal/$(date '+%Y-%m-%d.asc')'" \
+   umutnews="newsboat --config-file='${XDG_CONFIG_HOME:-$HOME/.config}/newsboat/umut.config' --cache-file='${XDG_CONFIG_HOME:-$HOME/.config}/newsboat/umutcache.db'"
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
 	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \
 	gcd="git commit -a -m \"$(date -I)\"" \

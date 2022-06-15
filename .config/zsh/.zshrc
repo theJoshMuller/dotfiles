@@ -88,3 +88,8 @@ grep "($(date +%-m/%-d))" ~/w/reference/birthdays.md
 khard birthdays | grep "$(date +%-m-%-d) "
 #echo "Prayer Contact for TODAY" | lolcat
 #grep "^$(date +%-d)\." ~/w/OIKOS.md
+
+#https://github.com/jamessan/vim-gnupg
+
+GPG_TTY=`tty`
+export GPG_TTY
