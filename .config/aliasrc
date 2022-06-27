@@ -14,6 +14,13 @@ hugo new -k blog content/writings/2022/$1.md
 vim content/writings/2022/$1.md
 }
 
+
+quote() {
+cd ~/projects/joshmuller.ca
+hugo new -k quotes content/writings/2022/$1.md
+vim content/writings/2022/$1.md
+}
+
 mp4comp() {
 	ffmpeg -i "$1" -vcodec libx265 -crf 22 -vf scale=1280:720 "$1.compressed.mp4"
 }
@@ -90,8 +97,6 @@ alias \
 	j="$EDITOR '~/w/journal/$(date '+%Y-%m-%d.asc')'" \
    umutnews="newsboat --config-file='${XDG_CONFIG_HOME:-$HOME/.config}/newsboat/umut.config' --cache-file='${XDG_CONFIG_HOME:-$HOME/.config}/newsboat/umutcache.db'"
 	emoji="$EDITOR ~/.local/share/larbs/emoji" \
-	awb="youtube-dl --playlist-reverse \"https://m.youtube.com/c/AlephwithBeth/\" -f 'bestvideo[height<=?720]+bestaudio/best[height<=?720]' --download-archive ${XDG_CONFIG_HOME:-$HOME/.config}/youtube-dl/archive --output '$HOME/in/AwB/%(playlist_index)s-%(title)s.%(ext)s'" \
-	gcd="git commit -a -m \"$(date -I)\"" \
 	cite="$EDITOR $DOCS/reference/citations.bib" \
 	cleanwa="rm paper.aux paper.b* paper.log paper.out paper.pdf paper.run.xml paper.txt" \
 	wa="pdflatex paper.tex && biber paper && pdflatex paper.tex && pdftotext paper.pdf && zathura paper.pdf" \

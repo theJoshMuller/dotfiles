@@ -10,8 +10,10 @@ https://hismagnificence.com/feed blog
 https://bibliogram.pussthecat.org/u/bbcnawal/rss.xml
 http://www.itchyfeetcomic.com/rss.xml
 https://heckifiknowcomics.tumblr.com/rss
+https://github.com/knowler/knowler.dev/commits/main.atom "~Knowler"
 " "
 "---Insta----"
+https://bibliogram.froth.zone/u/aaronsteinley/rss.xml
 https://bibliogram.pussthecat.org/u/luotatebephotography/rss.xml
 https://bibliogram.pussthecat.org/u/hughluotatebe/rss.xml
 https://bibliogram.pussthecat.org/u/olivebranchcogoods/rss.xml
@@ -29,86 +31,38 @@ https://bibliogram.pussthecat.org/u/meghanbowmanmusic/rss.xml
 https://bibliogram.pussthecat.org/u/creativecollectiveantalya/rss.xml
 https://apod.nasa.gov/apod.rss "~NASA"
 " "
-"---Reddit---"
-https://www.reddit.com/r/PrepperFileShare/top/.rss?t=year "~/r/PrepperFileShare"
-https://www.reddit.com/r/monero/top/.rss?t=month "~/r/monero"
-https://www.reddit.com/r/functionalprint/top/.rss?t=year "~/r/FunctionalPrint"
-https://www.reddit.com/r/ender3/top/.rss?t=year "~/r/Ender3"
-https://www.reddit.com/r/proplifting/top/.rss?t=year "~/r/Proplifting"
-https://www.reddit.com/r/lowimpactlifestyle/top/.rss?t=month "~/r/lowimpactlifestyle"
-https://www.reddit.com/r/Nootropics/top/.rss?t=month "~/r/Nootropics"
-https://www.reddit.com/r/blackhat/top/.rss?t=month "~/r/blackhat"
-https://www.reddit.com/r/StallmanWasRight/top/.rss?t=month "~/r/StallmanWasRight"
-https://www.reddit.com/r/anki/top/.rss?t=year "~/r/anki"
-https://www.reddit.com/r/selfhosted/top/.rss?t=year "~/r/selfhoster"
-https://www.reddit.com/r/privacy/top/.rss?t=year "~/r/privacy"
-https://www.reddit.com/r/financialindependence/top/.rss?t=year "~/r/FinancialIndependence"
-https://www.reddit.com/r/KingkillerChronicle/top/.rss?t=year "~/r/KingkillerChronicle"
-https://www.reddit.com/r/KingkillerMemes/top/.rss?t=year "~/r/KingKillerMemes"
-https://www.reddit.com/r/Permaculture/top/.rss?t=year "~/r/Permaculture"
-https://www.reddit.com/r/NoFap/top/.rss?t=year "~/r/NF"
-" "
 "---Videos---"
-https://videos.lukesmith.xyz/feeds/videos.xml?videoChannelId=2
-https://www.youtube.com/feeds/videos.xml?channel_id=UCqGONXW1ORgz5Y4qK-0JdkQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UC7YOGHUfC1Tb6E4pudI9STA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UChqxlr587JCD5I9veE62s1w
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9NX8ySoybFWjKFBIOjAIbQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJqNqmXwm_Rr-cORhNBq6Xw
-https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCNwHKYtnJNa8xNW4sbzNwMw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCTUm1R6b4jO61uVRMEdwx4A
-https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA
-https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCHC4G4X-OR5WkY-IquRGa3Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCThjlE00QaQIjkVQgbbCPuA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCqK_GSMbpiV8spgD3ZGloSw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCaeN45e3UUCQG3v9rGc3oyA
-https://www.youtube.com/feeds/videos.xml?channel_id=UC31U-ll2Q1niJ2QIhKlfpZA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCe0ilqwSO8XVnCw4m3UYC1Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCEn3fRj2e0mpqYsijxnzayg
-https://www.youtube.com/feeds/videos.xml?channel_id=UCXmz1jEf3MUyKiv8W5GRsXQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCT-XKlTCxNoZEDmSBlGKf6g
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZTIRrENWr_rjVoA7BcUE_A
-https://www.youtube.com/feeds/videos.xml?channel_id=UCywGsTdh_qqZUYmA2Gro2CA
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-2YHgc363EdcusLIBbgxzg
-https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q
-https://www.youtube.com/feeds/videos.xml?channel_id=UCSju5G2aFaWMqn-_0YBtq5A
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmGSJVG3mCRXVOP4yZrU1Dw "~Johnny Harris"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ "~Chris Titus Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJqNqmXwm_Rr-cORhNBq6Xw "~Koine Greek"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2C_jShtL725hvbm1arSV9w "~CGP Grey"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCNwHKYtnJNa8xNW4sbzNwMw "~Make it Work"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCTUm1R6b4jO61uVRMEdwx4A "~Meghan Bowman Music"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA "~Bible Project"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC9x0AN7BWHpCDHSm9NiJFJQ "~NetworkChuck"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCThjlE00QaQIjkVQgbbCPuA "~Marc Madrigal"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaeN45e3UUCQG3v9rGc3oyA "~Bible Project - Türkçe"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC31U-ll2Q1niJ2QIhKlfpZA "~Chris Titus Crypto"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCe0ilqwSO8XVnCw4m3UYC1Q "~Alpha with Angela"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCP7WmQ_U4GB3K51Od9QvM0w "~David Bombal"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZTIRrENWr_rjVoA7BcUE_A "~David Bombal Tech"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCT-XKlTCxNoZEDmSBlGKf6g "~REVAN"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCywGsTdh_qqZUYmA2Gro2CA "~Loic Suberville"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0e3QhIYukixgh5VVpKHH9Q "~Code Bullet"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6gyVlwXwtqkn4KLjx3nDHg "~Mark Queppet"
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6swjmUTHGAp5ea3Ox2ITcw "~Todd White"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w
-https://www.youtube.com/feeds/videos.xml?channel_id=UCJ24N4O0bP7LGLBDvye7oCA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCT5C7yaO3RVuOgwP8JVAujQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCWYXWdSQl75jgbS-unC2NfQ
-https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg
-https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg
-https://www.youtube.com/feeds/videos.xml?channel_id=UC_8BR59zKgBzeWPxFtmHSwA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCbQKK3Z1QoD6duGXsfLdHuA
-https://lbryfeed.melroy.org/channel/odysee/christitustech "~Chris Titus"
-https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCAiKPAlk6I9x21ZHFzknb9w "~Umut Kalesi"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCY1kMZp36IQSyNx_9h4mpCg "~Mark Rober"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw "~3Blue1Brown"
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZ4AMrDcNrfy3X6nsU8-rPg "~Economics Explained"
+https://www.youtube.com/feeds/videos.xml?channel_id=UChIVA_KCjSuVQeFwciPfpeA "~Aaron Steinley"
 https://lbryfeed.melroy.org/channel/odysee/alephwithbeth "~Aleph w/ Beth"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCrdWRLq10OHuy7HmSckV3Vg
 https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q  "~Kurzgesagt"
-https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw
-https://www.youtube.com/feeds/videos.xml?channel_id=UCyC_4jvPzLiSkJkLIkA7B8g
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLRE-UFLEgWzBuOiqemhEI9b4gmmBbutnC "~Pitch Meetings"
 https://www.youtube.com/feeds/videos.xml?playlist_id=PLkxgki8fW77LASB8OmDAmPlqjKGQIG3Uo "~Holy Post"
-https://www.youtube.com/feeds/videos.xml?playlist_id=PLk4oYPJ7TXKg4lvvabXEn9BI4c9i696kx "~Wildman Kettlebells"
-https://www.youtube.com/feeds/videos.xml?user=charismaoncommand
-https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg
-https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA
-https://www.youtube.com/feeds/videos.xml?channel_id=UCs6A_0Jm21SIvpdKyg9Gmxw
-https://www.youtube.com/feeds/videos.xml?user=Gloudas
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs6KfncB4OV6Vug4o_bzijg "~Techlore"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC415bOPUcGSamy543abLmRA "~Cleo Abram"
 https://www.youtube.com/feeds/videos.xml?user=RyGeor
-https://www.youtube.com/feeds/videos.xml?user=UyanisGencligiTube
-https://www.youtube.com/feeds/videos.xml?user=enyay
-https://www.youtube.com/feeds/videos.xml?channel_id=UC6107grRI4m0o2-emgoDnAA
-https://www.youtube.com/feeds/videos.xml?channel_id=UC1H1NWNTG2Xi3pt85ykVSHA
+https://www.youtube.com/feeds/videos.xml?user=enyay "~Tom Scott"
 https://nutritionfacts.org/feed/?post_type=video
 " "
 "---TECH----"
